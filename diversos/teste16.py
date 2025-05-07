@@ -20,3 +20,4 @@ print(lista)  # Saída: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 lista = [x for x in lista if x not in (2, 3)]
 
 print(lista)  # Saída: [0, 1, 4, 5, 6, 7, 8, 9, 10]
+print('teste')
