@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import time  # ✅ Adicionado
 from concurrent import futures
-# só existe no branch primeiro_branch
+
 # Definindo as colunas obrigatórias
 REQUIRED_COLUMNS = {'NOME', 'IDADE', 'EMAIL'}
 
